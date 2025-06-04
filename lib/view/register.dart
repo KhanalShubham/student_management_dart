@@ -64,7 +64,7 @@ class Register extends StatelessWidget {
                     Gap(20),
                      TextFormField(
                       controller: passwordController,
-                  decoration: InputDecoration(
+                  decoration: InputDecoration(g
                       suffix: Icon(Icons.person),
                       labelText: "Enter your password",
                       border: OutlineInputBorder(),
